@@ -1,0 +1,5 @@
+{
+  "name": "Video Marketing Generator",
+  "description": "An application allowing users to upload images, provide text prompts, and generate marketing videos of at least one minute using Gemini's Veo API.",
+  "requestFramePermissions": []
+}
